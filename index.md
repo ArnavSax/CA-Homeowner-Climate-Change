@@ -1,12 +1,26 @@
-## California Solar
+# A Look at Climate Change in California
 
-You can use the [editor on GitHub](https://github.com/ArnavSax/SYN-1-Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+An introductory note from the writers: 
+Welcome all! California’s population and wealth make it one of the most expensive to live in. Fortunately, if you’re a California homeowner tired of the expenses, there are several strategies that reduce expenses and help alleviate the global climate crisis simultaneously. We hope you learn something new, save money, and help keep the great state of California clean by reading this blog, happy reading! - Anshul Garde and Arnav Saxena
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+_This blog will be updated every two weeks with all the latest developments CA homeowners can benefit from._
 
-### Markdown
+## CA Electricity Prices
+### Mar 7th, 2022
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  As of 2022, California homeowners pay around 20 cents for the kilowatt hour for household electricity. Unlike CA, most Midwest and Southern state energy prices are significantly less, with Tennessee prices hovering around a low 10 cents per kilowatt hours. In terms of yearly costs, a CA homeowner paying $200 per month for electricity pays $2,400 per year, twice more than Tennessee. Reasonably, it is clear why so many homeowners are frustrated with energy prices that continue to rise. Especially considering the inflation impacts of COVID-19 over the past two years, energy prices have continued to skyrocket. Solar offers a promising solution. After CA solar tax credits, the average solar panel installation cost is around $10,000. Over a 20 year period, installing solar has the potential to save over $50,000 when all utility costs, inflation, and incentives are considered. California also offers the greatest solar incentives out of any state in the United States. (via the [US Department of Energy](https://www.energysage.com/local-data/solar-panel-cost/ca/#))
+  
+With the unpredictable world we live in today, solar panels offer an inflation-proof solution to the energy problem. 
+In fact, over the past 10 years, residential solar panel prices have gone down by 64% illustrated by the graph below from the National Renewable Energy Laboratory.
+
+![The cost of solar continues to decline across residential, commercial, and utility-scale PV systems, driven largely by increased module efficiency as well as lowered hardware and inverter costs.](https://www.nrel.gov/news/program/2021/images/pv-2up-825.jpg)
+
+Not only is solar inflation-proof, it has the potential to DECREASE in price even further, a strategy no CA homeowner should miss. 
+
+
+
+
+
 
 ```markdown
 Syntax highlighted code block
@@ -26,7 +40,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
 
 ### Jekyll Themes
 
