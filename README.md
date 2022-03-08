@@ -1,4 +1,4 @@
-# SYN-1-Project
+# CA Homeowner Climate Change
 
 Using github pages for a writing sequence class project? Kinda sweaty IMO
 
