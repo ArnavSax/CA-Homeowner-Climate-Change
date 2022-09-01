@@ -1,7 +1,7 @@
 # How Fighting Climate Change Benefits California Homeowners
 
 An introductory note from the writers: 
-Welcome all! California’s population and wealth make it one of the most expensive to live in. Fortunately, if you’re a California homeowner tired of the expenses, there are several strategies that reduce expenses and help alleviate the global climate crisis simultaneously. We hope you learn something new, save money, and help keep the great state of California clean by reading this blog, happy reading! - Anshul Garde and Arnav Saxena
+Welcome all! California’s population and wealth make it one of the most expensive to live in. Fortunately, if you’re a California homeowner tired of the expenses, there are several strategies that reduce expenses and help alleviate the global climate crisis simultaneously. We hope you learn something new, save money, and help keep the great state of California clean by reading this blog, happy reading! 
 
 _This blog will be updated every two weeks with all the latest developments that CA homeowners can benefit from as well as posted on several homeowner groups on social media._
 
